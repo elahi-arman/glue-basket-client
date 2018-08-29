@@ -1,0 +1,20 @@
+{
+  "name": "glue-basket-client",
+  "version": "0.0.1",
+  "description": "A React Based Client for glue-basket",
+  "main": "index.js",
+  "author": "Arman Elahi <arasela95@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "parcel-plugin-inlinesvg": "^0.0.14",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  },
+  "scripts": {
+    "start": "parcel app/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.7.0"
+  }
+}
